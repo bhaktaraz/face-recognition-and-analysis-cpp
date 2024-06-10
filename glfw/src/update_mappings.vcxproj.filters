@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Bibek Joshi\Desktop\ImageRecognition\CMakeFiles\369b5174066622a879cd4437bb17d8f9\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Bibek Joshi\Desktop\ImageRecognition\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Bibek Joshi\Desktop\ImageRecognition\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Bibek Joshi\Desktop\ImageRecognition\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Bibek Joshi\Desktop\ImageRecognition\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F425B14B-519B-3744-9204-A0AF99837D4C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{80A3388E-9F4C-3B52-A12F-E0CD782C8B8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

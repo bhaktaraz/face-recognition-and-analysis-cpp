@@ -1,0 +1,68 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake files and directories
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+
+# Visual Studio Code directory
+.vscode/
+
+# Eclipse directory
+.project
+.cproject
+.settings/
+
+# Compiled Python files
+__pycache__/
+
+# Compiled Java files
+*.class
+
+# Compiled LaTeX files
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+/build*
+/.vscode
+/cpm_modules
+.DS_Store
+
+/images
+/.vscode
+/.vs
